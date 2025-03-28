@@ -1,4 +1,4 @@
-# Sunset-Meters - Skins by N2MDX
+# THETIS Meter Skins by N2MDX
 Unzip Meters Folder into Sunser Skins folder
 
 
