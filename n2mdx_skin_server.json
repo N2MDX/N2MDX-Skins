@@ -7,7 +7,7 @@
   "ThetisSkins": [
     {
       "SkinName": "Sunset Meters",
-      "SkinUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins/raw/refs/heads/main/Sunset%20meter%20skins.zip",
+      "SkinUrl": "https://github.com/N2MDX/Sunset-Meters/raw/refs/heads/main/Meters.zip",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -18,7 +18,7 @@
     },
     {
       "SkinName": "Biker Meters",
-      "SkinUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins/raw/refs/heads/main/Biker%20Meter%20Skins.zip",
+      "SkinUrl": "https://github.com/N2MDX/Biker-Meters/raw/refs/heads/main/Meters.zip",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -29,7 +29,7 @@
     },
     {
       "SkinName": "Vcars Meters",
-      "SkinUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins/raw/refs/heads/main/Vcars%20Meter%20skins.zip",
+      "SkinUrl": "https://github.com/N2MDX/Vcars-Meters/raw/refs/heads/main/Meters.zip",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -40,7 +40,7 @@
     },
     {
       "SkinName": "Map Meters",
-      "SkinUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins/raw/refs/heads/main/Map%20Meter%20Skins.zip",
+      "SkinUrl": "https://github.com/N2MDX/Map-Meters/raw/refs/heads/main/Meters.zip",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -51,7 +51,7 @@
     },
     {
       "SkinName": "Mic Meters",
-      "SkinUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins/raw/refs/heads/main/Mic%20Meter%20Skins.zip",
+      "SkinUrl": "https://github.com/N2MDX/Mic-Meters/raw/refs/heads/main/Meters.zip",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
