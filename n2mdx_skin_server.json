@@ -2,7 +2,7 @@
   "AuthorName": "Mike",
   "AuthorCallsign": "N2MDX",
   "AuthorNickname": "N2MDX Skins and Meters!",
-  "SkinsHomepageUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins",
+  "SkinsHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
   "DonateUrl": "",
   "ThetisSkins": [
     {
@@ -11,7 +11,7 @@
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
-      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
       "DateReleased": "03/30/25",
       "Overview": "",
       "IsMeterSkin": true
@@ -22,7 +22,7 @@
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
-      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
       "DateReleased": "03/30/25",
       "Overview": "",
       "IsMeterSkin": true
@@ -33,7 +33,7 @@
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
-      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
       "DateReleased": "03/30/25",
       "Overview": "",
       "IsMeterSkin": true
@@ -44,7 +44,7 @@
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
-      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
       "DateReleased": "03/30/25",
       "Overview": "",
       "IsMeterSkin": true
@@ -55,7 +55,7 @@
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
-      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
       "DateReleased": "03/30/25",
       "Overview": "",
       "IsMeterSkin": true
@@ -66,7 +66,18 @@
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
-      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
+      "DateReleased": "03/30/25",
+      "Overview": "",
+      "IsMeterSkin": true
+    },
+    {
+      "SkinName": "AI Skins",
+      "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%201.zip",
+      "SkinVersion": "1.0",
+      "FromThetisVersion": "2.10.3",
+      "ThumbnailUrl": "",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
       "DateReleased": "03/30/25",
       "Overview": "",
       "IsMeterSkin": true
