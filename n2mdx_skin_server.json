@@ -59,6 +59,17 @@
       "DateReleased": "03/30/25",
       "Overview": "",
       "IsMeterSkin": true
+    },
+    {
+      "SkinName": "Hot Wheels Meters",
+      "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/HotWheelsMeters.zip",
+      "SkinVersion": "1.0",
+      "FromThetisVersion": "2.10.3",
+      "ThumbnailUrl": "",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Meter-Skins",
+      "DateReleased": "03/30/25",
+      "Overview": "",
+      "IsMeterSkin": true
     }
   ]
 }
