@@ -3,11 +3,13 @@
   "AuthorCallsign": "N2MDX",
   "AuthorNickname": "N2MDX Skins and Meters!",
   "SkinsHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
+  "Description": "N2MDX various skins",
   "DonateUrl": "",
   "ThetisSkins": [
     {
       "SkinName": "Sunset Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/SunriseMeters.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -19,6 +21,7 @@
     {
       "SkinName": "Biker Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BikerMeters.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -30,6 +33,7 @@
     {
       "SkinName": "Vcars Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VcarsMeters.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -41,6 +45,7 @@
     {
       "SkinName": "Map Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/MapMeters.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -52,6 +57,7 @@
     {
       "SkinName": "Mic Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/MicMeters.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -63,6 +69,7 @@
     {
       "SkinName": "Hot Wheels Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/HotWheelsMeters.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -74,6 +81,7 @@
     {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%201.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -85,6 +93,7 @@
     {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%202.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -96,6 +105,7 @@
     {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%203.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -107,6 +117,7 @@
     {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%204.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -121,6 +132,7 @@
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%205.zip",
+      "Description": "N2MDX various skins",
       "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
       "DateReleased": "03/30/25",
       "Overview": "",
@@ -129,6 +141,7 @@
     {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%206.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -140,6 +153,7 @@
     {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%207.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -151,6 +165,7 @@
     {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%208.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -162,6 +177,7 @@
     {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%209.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -173,6 +189,7 @@
     {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%2010.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -184,6 +201,7 @@
     {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%2011.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -195,6 +213,7 @@
     {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%2012.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -206,6 +225,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2001.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -217,6 +237,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2002.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -228,6 +249,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2003.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -239,6 +261,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2004.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -250,6 +273,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2005.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -261,6 +285,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2006.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -272,6 +297,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2007.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -283,6 +309,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2008.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -294,6 +321,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2009.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -305,6 +333,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2010.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -316,6 +345,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2011.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -327,6 +357,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2012.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -338,6 +369,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2013.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -349,6 +381,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2014.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -360,6 +393,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2015.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -371,6 +405,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2016.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -382,6 +417,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2017.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -393,6 +429,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2018.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -404,6 +441,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2019.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
@@ -415,6 +453,7 @@
     {
       "SkinName": "XMAS Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2020.zip",
+      "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "",
