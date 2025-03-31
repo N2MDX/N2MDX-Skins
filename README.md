@@ -6,3 +6,4 @@ Thanks to the Group, Sigi DH1KLM, Richie MW0LGE, Ernst OE3IDE and the rest of th
 
 WELCOME TO THE WORLD OF THETIS!
 ENJOY 73'S! :)
+![biker thumb](https://github.com/user-attachments/assets/20d6e93b-1af0-4bbe-a1f7-2537c971cbb5)
