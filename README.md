@@ -9,6 +9,5 @@ ENJOY 73'S! :)
 
 ![biker thumb](https://github.com/user-attachments/assets/20d6e93b-1af0-4bbe-a1f7-2537c971cbb5)
 ![hotwheels thumb](https://github.com/user-attachments/assets/c0abfd0d-9c19-4ebf-84c6-11c4cf2f2721)
-![cross-needle hotwheels thumb](https://github.com/user-attachments/assets/e2b8f11b-fe11-45c8-9f9e-fa958df2510f)
 ![sunset thumb](https://github.com/user-attachments/assets/c3c49c68-b60a-420c-afce-1d9536a39345)
 ![maps thumb](https://github.com/user-attachments/assets/47453616-9912-47a8-9ec8-f4ecccb787f4)
