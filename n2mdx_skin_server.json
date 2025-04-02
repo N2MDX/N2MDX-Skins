@@ -91,6 +91,18 @@
       "IsMeterSkin": true
     },
     {
+      "SkinName": "Guns And Ammo",
+      "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/GunsAndAmmo.zip",
+      "Description": "N2MDX various skins",
+      "SkinVersion": "1.0",
+      "FromThetisVersion": "2.10.3",
+      "ThumbnailUrl": "",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
+      "DateReleased": "04/02/25",
+      "Overview": "",
+      "IsMeterSkin": true
+    },
+    {
       "SkinName": "AI Skins",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%201.zip",
       "Description": "N2MDX various skins",
