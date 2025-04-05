@@ -1901,6 +1901,30 @@
       "DateReleased": "03/30/25",
       "Overview": "",
       "IsMeterSkin": false
+    },
+    {
+      "SkinName": "N2MDX Alien Predator 1",
+      "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%20Predator%201.zip",
+      "Description": "N2MDX various skins",
+      "SkinVersion": "1.0",
+      "FromThetisVersion": "2.10.3",
+      "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_Predator_1.jpg?raw=true",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
+      "DateReleased": "03/30/25",
+      "Overview": "",
+      "IsMeterSkin": false
+    },
+    {
+      "SkinName": "N2MDX Alien Predator 2",
+      "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%20Predator%202.zip",
+      "Description": "N2MDX various skins",
+      "SkinVersion": "1.0",
+      "FromThetisVersion": "2.10.3",
+      "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_Predator_2.jpg?raw=true",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
+      "DateReleased": "03/30/25",
+      "Overview": "",
+      "IsMeterSkin": false
     }
   ]
 }
