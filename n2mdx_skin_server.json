@@ -1855,12 +1855,12 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "",
-      "SkinUrl": "",
+      "SkinName": "N2MDX-3DSDR",
+      "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX-3DSDR.zip",
       "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
-      "ThumbnailUrl": "",
+      "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/3DSDR.jpg",
       "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
       "DateReleased": "03/30/25",
       "Overview": "",
