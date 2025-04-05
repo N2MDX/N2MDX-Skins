@@ -55,6 +55,18 @@
       "IsMeterSkin": true
     },
     {
+      "SkinName": "Map Meters 2",
+      "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Map%20Meter%20Skins%202.zip",
+      "Description": "N2MDX various skins",
+      "SkinVersion": "1.0",
+      "FromThetisVersion": "2.10.3",
+      "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/map2.jpg?raw=true",
+      "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
+      "DateReleased": "03/30/25",
+      "Overview": "",
+      "IsMeterSkin": true
+    },
+    {
       "SkinName": "Mic Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/MicMeters.zip",
       "Description": "N2MDX various skins",
