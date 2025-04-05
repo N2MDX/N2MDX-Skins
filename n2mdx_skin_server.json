@@ -1831,12 +1831,12 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "",
-      "SkinUrl": "",
+      "SkinName": "HL2 - Sunset",
+      "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/HL2%20-%20Sunset.zip",
       "Description": "N2MDX various skins",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
-      "ThumbnailUrl": "",
+      "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_HL2_Sunset.jpg",
       "SkinHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
       "DateReleased": "03/30/25",
       "Overview": "",
