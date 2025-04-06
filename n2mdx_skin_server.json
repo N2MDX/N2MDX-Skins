@@ -1,15 +1,13 @@
 {
   "AuthorName": "Mike",
   "AuthorCallsign": "N2MDX",
-  "AuthorNickname": "N2MDX Skins and Meters!",
+  "AuthorNickname": "",
   "SkinsHomepageUrl": "https://github.com/N2MDX/N2MDX-Skins",
-  "Description": "N2MDX various skins",
   "DonateUrl": "",
   "ThetisSkins": [
     {
       "SkinName": "Sunset Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/SunriseMeters.zip",
-      "Description": "Sunset Meters",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset%20thumb.jpg?raw=true",
@@ -21,7 +19,6 @@
     {
       "SkinName": "Biker Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BikerMeters.zip",
-      "Description": "Biker Meters",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/biker%20thumb.jpg?raw=true",
@@ -33,7 +30,6 @@
     {
       "SkinName": "Vcars Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VcarsMeters.zip",
-      "Description": "Vcars Meters",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/cars%20thumb.jpg?raw=true",
@@ -45,7 +41,6 @@
     {
       "SkinName": "Map Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/MapMeters.zip",
-      "Description": "Map Meters",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/maps%20thumb.jpg?raw=true",
@@ -57,7 +52,6 @@
     {
       "SkinName": "Map Meters 2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Map%20Meter%20Skins%202.zip",
-      "Description": "Map Meters 2",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/map2.jpg?raw=true",
@@ -69,7 +63,6 @@
     {
       "SkinName": "Mic Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/MicMeters.zip",
-      "Description": "Mic Meters",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/mics%20thumb.jpg?raw=true",
@@ -81,7 +74,6 @@
     {
       "SkinName": "Hot Wheels Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/HotWheelsMeters.zip",
-      "Description": "Hot Wheels Meters",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/hotwheels%20thumb.jpg?raw=true",
@@ -93,7 +85,6 @@
     {
       "SkinName": "Light House Pack 1 Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/LightHousepack1Meters.zip",
-      "Description": "Light House Pack 1 Meters",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/LH1.jpg?raw=true",
@@ -105,7 +96,6 @@
     {
       "SkinName": "Guns And Ammo Meters",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/GunsAndAmmoMeters.zip",
-      "Description": "Guns And Ammo Meters",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/GA1.jpg?raw=true",
@@ -115,9 +105,8 @@
       "IsMeterSkin": true
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 1",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%201.zip",
-      "Description": "AI 1 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A1.jpg?raw=true",
@@ -127,9 +116,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%202.zip",
-      "Description": "AI 2 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A2.jpg?raw=true",
@@ -139,9 +127,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 3",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%203.zip",
-      "Description": "AI 3 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A3.jpg?raw=true",
@@ -151,9 +138,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 4",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%204.zip",
-      "Description": "AI 4 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A4.jpg?raw=true",
@@ -163,9 +149,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 5",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%205.zip",
-      "Description": "AI 5 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A5.jpg?raw=true",
@@ -175,9 +160,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 6",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%206.zip",
-      "Description": "AI 6 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A6.jpg?raw=true",
@@ -187,9 +171,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 7",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%207.zip",
-      "Description": "AI 7 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A7.jpg?raw=true",
@@ -199,9 +182,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 8",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%208.zip",
-      "Description": "AI 8 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A8.jpg?raw=true",
@@ -211,9 +193,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 9",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%209.zip",
-      "Description": "AI 9 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A9.jpg?raw=true",
@@ -223,9 +204,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 10",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%2010.zip",
-      "Description": "AI 10 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A10.jpg?raw=true",
@@ -235,9 +215,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 11",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%2011.zip",
-      "Description": "AI 11 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A11.jpg?raw=true",
@@ -247,9 +226,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "AI Skins",
+      "SkinName": "AI Skins 12",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/AI%2012.zip",
-      "Description": "AI 12 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/A12.jpg?raw=true",
@@ -259,9 +237,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 1",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2001.zip",
-      "Description": "xmas 1 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas1.jpg?raw=true",
@@ -271,9 +248,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2002.zip",
-      "Description": "xmas 2 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas2.jpg?raw=true",
@@ -283,9 +259,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 3",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2003.zip",
-      "Description": "xmas 3 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas3.jpg?raw=true",
@@ -295,9 +270,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 4",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2004.zip",
-      "Description": "xmas 4 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas4.jpg?raw=true",
@@ -307,9 +281,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 5",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2005.zip",
-      "Description": "xmas 5 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas5.jpg?raw=true",
@@ -319,9 +292,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 6",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2006.zip",
-      "Description": "xmas 6 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas6.jpg?raw=true",
@@ -331,9 +303,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 7",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2007.zip",
-      "Description": "Nxmas 7 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas7.jpg?raw=true",
@@ -343,9 +314,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 8",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2008.zip",
-      "Description": "xmas 8 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas8.jpg?raw=true",
@@ -355,9 +325,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 9",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2009.zip",
-      "Description": "xmas 9 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas9.jpg?raw=true",
@@ -367,9 +336,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 10",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2010.zip",
-      "Description": "xmas 10 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas10.jpg?raw=true",
@@ -379,9 +347,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 11",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2011.zip",
-      "Description": "xmas 11 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas11.jpg?raw=true",
@@ -391,9 +358,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 12",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2012.zip",
-      "Description": "xmas 12 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas12.jpg?raw=true",
@@ -403,9 +369,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 13",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2013.zip",
-      "Description": "xmas 13 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas13.jpg?raw=true",
@@ -415,9 +380,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 14",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2014.zip",
-      "Description": "xmas 14 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas14.jpg?raw=true",
@@ -427,9 +391,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 15",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2015.zip",
-      "Description": "xmas 15 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas15.jpg?raw=true",
@@ -439,9 +402,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 16",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2016.zip",
-      "Description": "xmas 16 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas16.jpg?raw=true",
@@ -451,9 +413,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 17",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2017.zip",
-      "Description": "xmas 17 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas17.jpg?raw=true",
@@ -463,9 +424,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 18",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2018.zip",
-      "Description": "xmas 18 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas18.jpg?raw=true",
@@ -475,9 +435,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 19",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2019.zip",
-      "Description": "xmas 19 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas19.jpg?raw=true",
@@ -487,9 +446,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "XMAS Skins",
+      "SkinName": "XMAS Skins 20",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/XMAS%2020.zip",
-      "Description": "xmas 20 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/xmas20.jpg?raw=true",
@@ -499,9 +457,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 1",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2001.zip",
-      "Description": "biker 1 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_01.jpg?raw=true",
@@ -511,9 +468,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2002.zip",
-      "Description": "biker 2 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_02.jpg?raw=true",
@@ -523,9 +479,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 3",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2003.zip",
-      "Description": "biker 3 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_03.jpg?raw=true",
@@ -535,9 +490,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 4",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2004.zip",
-      "Description": "biker 4 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_04.jpg?raw=true",
@@ -547,9 +501,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 5",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2005.zip",
-      "Description": "biker 5 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_05.jpg?raw=true",
@@ -559,9 +512,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 6",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2006.zip",
-      "Description": "biker 6 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_06.jpg?raw=true",
@@ -571,9 +523,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 7",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2007.zip",
-      "Description": "biker 7 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_07.jpg?raw=true",
@@ -583,9 +534,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 8",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2008.zip",
-      "Description": "biker 8 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_08.jpg?raw=true",
@@ -595,9 +545,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 9",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2009.zip",
-      "Description": "biker 9 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_09.jpg?raw=true",
@@ -607,9 +556,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 10",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2010.zip",
-      "Description": "biker 10 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_10.jpg?raw=true",
@@ -619,9 +567,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 11",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2011.zip",
-      "Description": "biker 11 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_11.jpg?raw=true",
@@ -631,9 +578,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 12",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2012.zip",
-      "Description": "biker 12 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_12.jpg?raw=true",
@@ -643,9 +589,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 13",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2013.zip",
-      "Description": "biker 13 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_13.jpg?raw=true",
@@ -655,9 +600,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 14",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2014.zip",
-      "Description": "biker 14 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_14.jpg?raw=true",
@@ -667,9 +611,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 15",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2015.zip",
-      "Description": "biker 15 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_15.jpg?raw=true",
@@ -679,9 +622,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 16",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2016.zip",
-      "Description": "biker 16 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_16.jpg?raw=true",
@@ -691,9 +633,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 17",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2017.zip",
-      "Description": "biker 17 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_17.jpg?raw=true",
@@ -703,9 +644,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 18",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2018.zip",
-      "Description": "biker 18 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_18.jpg?raw=true",
@@ -715,9 +655,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins 19",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2019.zip",
-      "Description": "biker 19 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_19.jpg?raw=true",
@@ -727,9 +666,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Biker Skins",
+      "SkinName": "Biker Skins20",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/BIKES%2020.zip",
-      "Description": "biker 20 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_BIKES_20.jpg?raw=true",
@@ -739,9 +677,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 1",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps1.zip",
-      "Description": "map 1 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_1.jpg?raw=true",
@@ -751,9 +688,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps2.zip",
-      "Description": "map 2 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_2.jpg?raw=true",
@@ -763,9 +699,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 3",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps3.zip?raw=true",
-      "Description": "map 3 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_3.jpg?raw=true",
@@ -775,9 +710,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 4",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps4.zip",
-      "Description": "map 4 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_4.jpg?raw=true",
@@ -787,9 +721,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 5",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps5.zip",
-      "Description": "map 5 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_5.jpg?raw=true",
@@ -799,9 +732,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 6",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps6.zip",
-      "Description": "map 6 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_6.jpg?raw=true",
@@ -811,9 +743,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 7",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps7.zip",
-      "Description": "map 7 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_7.jpg?raw=true",
@@ -823,9 +754,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 8",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps8.zip",
-      "Description": "map 8 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_8.jpg?raw=true",
@@ -835,9 +765,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 9",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps9.zip",
-      "Description": "map 9 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_9.jpg?raw=true",
@@ -847,9 +776,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 10",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps10.zip",
-      "Description": "map 10 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_10.jpg?raw=true",
@@ -859,9 +787,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 11",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps11.zip",
-      "Description": "map 11 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_11.jpg?raw=true",
@@ -871,9 +798,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 12",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps12.zip",
-      "Description": "map 12 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_12.jpg?raw=true",
@@ -883,9 +809,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 13",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps13.zip",
-      "Description": "map 13 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_13.jpg?raw=true",
@@ -895,9 +820,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 14",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps14.zip",
-      "Description": "map 14 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_14.jpg?raw=true",
@@ -907,9 +831,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 15",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps15.zip",
-      "Description": "map 15 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_15.jpg?raw=true",
@@ -919,9 +842,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 16",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps16.zip",
-      "Description": "map 16 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_16.jpg?raw=true",
@@ -931,9 +853,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 17",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps17.zip",
-      "Description": "map 17 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_17.jpg?raw=true",
@@ -943,9 +864,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 18",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps18.zip",
-      "Description": "map 18 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_18.jpg?raw=true",
@@ -955,9 +875,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 19",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps19.zip",
-      "Description": "map 19 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_19.jpg?raw=true",
@@ -967,9 +886,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Map Skins",
+      "SkinName": "Map Skins 20",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Maps20.zip",
-      "Description": "map 20 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Map_20.jpg?raw=true",
@@ -979,9 +897,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 1",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_01.zip",
-      "Description": "mic 1 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_01.jpg?raw=true",
@@ -991,9 +908,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_02.zip",
-      "Description": "mic 2 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_02.jpg?raw=true",
@@ -1003,9 +919,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 3",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_03.zip",
-      "Description": "mic 3 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_03.jpg?raw=true",
@@ -1015,9 +930,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 4",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_04.zip",
-      "Description": "mic 4 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_04.jpg?raw=true",
@@ -1027,9 +941,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 5",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_05.zip",
-      "Description": "mic 5 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_05.jpg?raw=true",
@@ -1039,9 +952,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 6",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_06.zip",
-      "Description": "mic 6 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_06.jpg?raw=true",
@@ -1051,9 +963,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 7",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_07.zip",
-      "Description": "mic 7 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_07.jpg?raw=true",
@@ -1063,9 +974,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 8",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_08.zip",
-      "Description": "mic 8 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_08.jpg?raw=true",
@@ -1075,9 +985,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 9",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_09.zip",
-      "Description": "mic 9 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_09.jpg?raw=true",
@@ -1087,9 +996,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 10",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_10.zip",
-      "Description": "mic 10 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_10.jpg?raw=true",
@@ -1099,9 +1007,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 11",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_11.zip",
-      "Description": "mic 11 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_11.jpg?raw=true",
@@ -1111,9 +1018,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 12",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_12.zip",
-      "Description": "mic 12 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_12.jpg?raw=true",
@@ -1123,9 +1029,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 13",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_13.zip",
-      "Description": "mic 13 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_13.jpg?raw=true",
@@ -1135,9 +1040,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 14",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_14.zip",
-      "Description": "mic 14 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_14.jpg?raw=true",
@@ -1147,9 +1051,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 15",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_15.zip",
-      "Description": "mic 15 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_15.jpg?raw=true",
@@ -1159,9 +1062,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 16",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_16.zip",
-      "Description": "mic 16 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_16.jpg?raw=true",
@@ -1171,9 +1073,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 17",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_17.zip",
-      "Description": "mic 17 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_17.jpg?raw=true",
@@ -1183,9 +1084,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 18",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_18.zip",
-      "Description": "mic 18 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_18.jpg?raw=true",
@@ -1195,9 +1095,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 19",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_19.zip",
-      "Description": "mic 19 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_19.jpg?raw=true",
@@ -1207,9 +1106,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Mic Skins",
+      "SkinName": "Mic Skins 20",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX_MICS_20.zip",
-      "Description": "mic 20 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_MICS_20.jpg?raw=true",
@@ -1219,9 +1117,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 1",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%201.zip",
-      "Description": "sunset 1 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset1.jpg?raw=true",
@@ -1231,9 +1128,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%202.zip",
-      "Description": "sunset 2 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset2.jpg?raw=true",
@@ -1243,9 +1139,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 3",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%203.zip",
-      "Description": "sunset 3 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset3.jpg?raw=true",
@@ -1255,9 +1150,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 4",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%204.zip",
-      "Description": "sunset 4 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset4.jpg?raw=true",
@@ -1267,9 +1161,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 5",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%205.zip",
-      "Description": "sunset 5 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset5.jpg?raw=true",
@@ -1279,9 +1172,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 6",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%206.zip",
-      "Description": "sunset 6 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset6.jpg?raw=true",
@@ -1291,9 +1183,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 7",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%207.zip",
-      "Description": "sunset 7 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset7.jpg?raw=true",
@@ -1303,9 +1194,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 8",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%208.zip",
-      "Description": "sunset 8 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset8.jpg?raw=true",
@@ -1315,9 +1205,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 9",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%209.zip",
-      "Description": "sunset 9 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset9.jpg?raw=true",
@@ -1327,9 +1216,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 10",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%2010.zip",
-      "Description": "sunset 10 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset10.jpg?raw=true",
@@ -1339,9 +1227,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 11",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%2011.zip",
-      "Description": "sunset 11 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset11.jpg?raw=true",
@@ -1351,9 +1238,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 12",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%2012.zip",
-      "Description": "sunset 12 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset12.jpg?raw=true",
@@ -1363,9 +1249,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 13",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%2013.zip",
-      "Description": "sunset 13 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset13.jpg?raw=true",
@@ -1375,9 +1260,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 14",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%2014.zip",
-      "Description": "sunset 14 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset14.jpg?raw=true",
@@ -1387,9 +1271,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 15",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%2015.zip",
-      "Description": "sunset 15 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset15.jpg?raw=true",
@@ -1399,9 +1282,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 16",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%2016.zip",
-      "Description": "sunset 16 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset16.jpg?raw=true",
@@ -1411,9 +1293,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 17",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%2017.zip",
-      "Description": "sunset 17 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset17.jpg?raw=true",
@@ -1423,9 +1304,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 18",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%2018.zip",
-      "Description": "sunset 18 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset18.jpg?raw=true",
@@ -1435,9 +1315,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 19",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%2019.zip",
-      "Description": "sunset 19 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset19.jpg?raw=true",
@@ -1447,9 +1326,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Sunset Skins",
+      "SkinName": "Sunset Skins 20",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Sunset%20-%2020.zip",
-      "Description": "sunset 20 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/sunset20.jpg?raw=true",
@@ -1459,9 +1337,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 1",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2001.zip?raw=true",
-      "Description": "vcars 1 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_01.jpg?raw=true",
@@ -1471,9 +1348,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2002.zip",
-      "Description": "vcars 2 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_02.jpg?raw=true",
@@ -1483,9 +1359,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 3",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2003.zip",
-      "Description": "vcars 3 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_03.jpg?raw=true",
@@ -1495,9 +1370,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 4",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2004.zip",
-      "Description": "vcars 4 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_04.jpg?raw=true",
@@ -1507,9 +1381,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 5",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2005.zip",
-      "Description": "vcars 5 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_05.jpg?raw=true",
@@ -1519,9 +1392,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 6",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2006.zip",
-      "Description": "vcars 6 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_06.jpg?raw=true",
@@ -1531,9 +1403,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 7",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2007.zip",
-      "Description": "vcars 7 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_07.jpg?raw=true",
@@ -1543,9 +1414,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 8",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2008.zip",
-      "Description": "vcars 8 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_08.jpg?raw=true",
@@ -1555,9 +1425,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 9",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2009.zip",
-      "Description": "vcars 9 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_09.jpg?raw=true",
@@ -1567,9 +1436,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 10",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2010.zip",
-      "Description": "vcars 10 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_10.jpg?raw=true",
@@ -1579,9 +1447,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 11",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2011.zip",
-      "Description": "vcars 11 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_11.jpg?raw=true",
@@ -1591,9 +1458,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 12",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2012.zip",
-      "Description": "vcars 12 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_12.jpg?raw=true",
@@ -1603,9 +1469,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 13",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2013.zip",
-      "Description": "vcars 13 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_13.jpg?raw=true",
@@ -1615,9 +1480,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 14",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2014.zip",
-      "Description": "vcars 14 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_14.jpg?raw=true",
@@ -1627,9 +1491,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 15",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2015.zip",
-      "Description": "vcars 15 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_15.jpg?raw=true",
@@ -1639,9 +1502,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 16",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2016.zip",
-      "Description": "vcars 16 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_16.jpg?raw=true",
@@ -1651,9 +1513,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 17",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2017.zip",
-      "Description": "vcars 17 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_17.jpg?raw=true",
@@ -1663,9 +1524,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 18",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2018.zip",
-      "Description": "vcars 18 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_18.jpg?raw=true",
@@ -1675,9 +1535,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 19",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2019.zip",
-      "Description": "vcars 19 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_19.jpg?raw=true",
@@ -1687,9 +1546,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Vcars Skins",
+      "SkinName": "Vcars Skins 20",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/VCars%2020.zip",
-      "Description": "vcars 20 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_VCars_20.jpg?raw=true",
@@ -1699,9 +1557,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Dark Skins",
+      "SkinName": "Dark Skins 1",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Dark%201.zip",
-      "Description": "dark 1 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/dark1.jpg?raw=true",
@@ -1711,9 +1568,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Dark Skins",
+      "SkinName": "Dark Skins 2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Dark%202.zip",
-      "Description": "dark 2 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/dark2.jpg?raw=true",
@@ -1723,9 +1579,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Dark Skins",
+      "SkinName": "Dark Skins 3",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/Dark%203.zip",
-      "Description": "dark 3 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/dark3.jpg?raw=true",
@@ -1735,9 +1590,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Dark Skins",
+      "SkinName": "Dark Skins 4",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/blob/main/Dark%204.zip",
-      "Description": "dark 4 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/dark4.jpg?raw=true",
@@ -1747,9 +1601,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Dark Skins",
+      "SkinName": "Dark Skins 5",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/blob/main/Dark%205.zip",
-      "Description": "dark 5 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/dark5.jpg?raw=true",
@@ -1759,9 +1612,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Dark Skins",
+      "SkinName": "Dark Skins 6",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/blob/main/Dark%206.zip",
-      "Description": "dark 6 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/dark6.jpg?raw=true",
@@ -1771,9 +1623,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Dark Skins",
+      "SkinName": "Dark Skins 7",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/blob/main/Dark%207.zip",
-      "Description": "dark 7 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/dark7.jpg?raw=true",
@@ -1783,9 +1634,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Dark Skins",
+      "SkinName": "Dark Skins 8",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/blob/main/Dark%208.zip",
-      "Description": "dark 8 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/dark8.jpg?raw=true",
@@ -1795,9 +1645,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Dark Skins",
+      "SkinName": "Dark Skins 9",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/blob/main/Dark%209.zip",
-      "Description": "dark 9 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/dark9.jpg?raw=true",
@@ -1807,9 +1656,8 @@
       "IsMeterSkin": false
     },
     {
-      "SkinName": "Dark Skins",
+      "SkinName": "Dark Skins 10",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/blob/main/Dark%2010.zip",
-      "Description": "dark 10 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/dark10.jpg?raw=true",
@@ -1821,7 +1669,6 @@
     {
       "SkinName": "HL2 - 16k Ultra",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/HL2%20-%2016k%20Ultra.zip",
-      "Description": "HL2 - 16k Ultra",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_HL2_16k_Ultra.jpg?raw=true",
@@ -1833,7 +1680,6 @@
     {
       "SkinName": "HL2 - Sunset",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/HL2%20-%20Sunset.zip",
-      "Description": "HL2 - Sunset",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_HL2_Sunset.jpg?raw=true",
@@ -1845,7 +1691,6 @@
     {
       "SkinName": "HL2 1950's'",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20NYC%201950's.zip",
-      "Description": "HL2 1950's",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_NYC_1950's.jpg?raw=true",
@@ -1857,7 +1702,6 @@
     {
       "SkinName": "N2MDX-3DSDR",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX-3DSDR.zip",
-      "Description": "N2MDX-3DSDR",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/3DSDR.jpg?raw=true",
@@ -1869,7 +1713,6 @@
     {
       "SkinName": "n2mdx-Circuit",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/n2mdx-Circuit.zip",
-      "Description": "n2mdx-Circuit",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/Circuit.jpg?raw=true",
@@ -1881,7 +1724,6 @@
     {
       "SkinName": "N2MDX Neuronal",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Neuronal.zip",
-      "Description": "N2MDX Neuronal",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Neuronal.jpg?raw=true",
@@ -1893,7 +1735,6 @@
     {
       "SkinName": "N2MDX Spiderman",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Spiderman.zip",
-      "Description": "N2MDX Spiderman",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Spiderman.jpg?raw=true",
@@ -1905,7 +1746,6 @@
     {
       "SkinName": "N2MDX Spiderman2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Spiderman%202.zip",
-      "Description": "N2MDX Spiderman2",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Spiderman_2.jpg?raw=true",
@@ -1917,7 +1757,6 @@
     {
       "SkinName": "N2MDX Alien Predator 1",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%20Predator%201.zip",
-      "Description": "Alien Predator 1 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_Predator_1.jpg?raw=true",
@@ -1929,7 +1768,6 @@
     {
       "SkinName": "N2MDX Alien Predator 2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%20Predator%202.zip",
-      "Description": "Alien Predator 2 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_Predator_2.jpg?raw=true",
@@ -1941,7 +1779,6 @@
     {
       "SkinName": "N2MDX Joker Card",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Joker%20Card.zip",
-      "Description": "N2MDX Joker Card",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Joker_Card.jpg?raw=true",
@@ -1953,7 +1790,6 @@
     {
       "SkinName": "N2MDX Black Windows",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Black%20Win.zip",
-      "Description": "N2MDX Black Windows",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Black_Win.jpg?raw=true",
@@ -1965,7 +1801,6 @@
     {
       "SkinName": "N2MDX Batman",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Batman.zip",
-      "Description": "N2MDX Batman",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Batman.jpg?raw=true",
@@ -1977,7 +1812,6 @@
     {
       "SkinName": "N2MDX Alien 1",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%201.zip",
-      "Description": "alien 1 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_1.jpg?raw=true",
@@ -1989,7 +1823,6 @@
     {
       "SkinName": "N2MDX Alien 2",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%202.zip",
-      "Description": "alien 2 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_2.jpg?raw=true",
@@ -2001,7 +1834,6 @@
     {
       "SkinName": "N2MDX Alien 3",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%203.zip",
-      "Description": "alien 3 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_3.jpg?raw=true",
@@ -2013,7 +1845,6 @@
     {
       "SkinName": "N2MDX Alien 4",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%204.zip",
-      "Description": "alien 4 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_4.jpg?raw=true",
@@ -2025,7 +1856,6 @@
     {
       "SkinName": "N2MDX Alien 5",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%205.zip",
-      "Description": "alien 5 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_5.jpg?raw=true",
@@ -2037,7 +1867,6 @@
     {
       "SkinName": "N2MDX Alien 6",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%206.zip",
-      "Description": "alien 6 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_6.jpg?raw=true",
@@ -2049,7 +1878,6 @@
     {
       "SkinName": "N2MDX Alien 7",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%207.zip",
-      "Description": "alien 7 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_7.jpg?raw=true",
@@ -2061,7 +1889,6 @@
     {
       "SkinName": "N2MDX Alien 8",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%208.zip",
-      "Description": "alien 8 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_8.jpg?raw=true",
@@ -2073,7 +1900,6 @@
     {
       "SkinName": "N2MDX Alien 9",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%209.zip",
-      "Description": "alien 9 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_9.jpg?raw=true",
@@ -2085,7 +1911,6 @@
     {
       "SkinName": "N2MDX Alien 10",
       "SkinUrl": "https://github.com/N2MDX/N2MDX-Skins/raw/refs/heads/main/N2MDX%20Alien%2010.zip",
-      "Description": "alien 10 skin",
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.10.3",
       "ThumbnailUrl": "https://github.com/N2MDX/Skins-Thumbnails/blob/main/N2MDX_Alien_10.jpg?raw=true",
