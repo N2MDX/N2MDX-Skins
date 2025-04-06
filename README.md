@@ -1,5 +1,5 @@
 # THETIS Meter Skins.
-Unzip Meters Folder into Your Existing Skins Folder You Would Like The Meters To Work.
+Open Skind Folder and Unzip Any Meter Pack into Any Skins Folder
 For ADD On Bars Pack Must Install with Same Name and Size!
 *****************************************************************************************************************************************************
 Thanks to the Group, Sigi DH1KLM, Richie MW0LGE, Ernst OE3IDE and the rest of the Thetis groups.
